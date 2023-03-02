@@ -10,3 +10,6 @@ p{
 	font: "Arial";
 	font-weight: normal;
 }
+.gray-element{
+	background-color: lightgrey;
+}
