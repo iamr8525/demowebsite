@@ -21,3 +21,11 @@ button{
 	color: blue;
 	background-color: orange;
 }
+.black-txt{
+	color: black;
+}
+.reduce-margin{
+	margin-top: 1px;
+	margin-left: 50px;
+	color: red;
+}
