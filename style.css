@@ -1,6 +1,12 @@
 h1{
+	font: "Arial";
 	color: green;
 }
 h2{
+	font: "Arial";
 	color: blue;
+}
+p{
+	font: "Arial";
+	font-weight: normal;
 }
