@@ -16,3 +16,6 @@ p{
 .name{
 	background-color: green;
 }
+button{
+	border-radius: 10px;
+}
