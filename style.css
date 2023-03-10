@@ -1,31 +1,10 @@
-h1{
-	font: "Arial";
-	color: green;
+body {
+	margin: 0px;
+	background-image: linear-gradient(to bottom right, #95d9f9, #ae4bc3);
 }
-h2{
-	font: "Arial";
-	color: blue;
-}
-p{
-	font: "Arial";
-	font-weight: normal;
-}
-.gray-element{
-	background-color: lightgrey;
-}
-.name{
-	background-color: green;
-}
-button{
-	border-radius: 10px;
-	color: blue;
-	background-color: orange;
-}
-.black-txt{
-	color: black;
-}
-.reduce-margin{
-	margin-top: 1px;
-	margin-left: 50px;
-	color: red;
+h1 {
+	color: #1b95cd;
+	font-family: tahoma, sans-serif;
+	opacity: 60%;
+	position: absolute;
 }
